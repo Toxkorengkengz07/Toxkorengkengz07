@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Vito Julio Korengkeng</h1>
 <h3 align="center">Web Developer</h3>
 
@@ -8,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vito julio korengkeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vito julio korengkeng" height="30" width="40" /></a>
-<a href="https://fb.com/Vito Korengkeng Sumual" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vito korengkeng sumual" height="30" width="40" /></a>
+<a href="https://web.facebook.com/vito.korengkeng31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vito korengkeng sumual" height="30" width="40" /></a>
 <a href="https://instagram.com/toxkorengkengz07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toxkorengkengz07" height="30" width="40" /></a>
 </p>
 
